@@ -1,4 +1,4 @@
-package com.mazai.pattern;
+package com.mazai.pattern.facade;
 
 /**
  * 门面模式：将多个内部模块调用封装在一个类中
